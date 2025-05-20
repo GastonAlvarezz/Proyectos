@@ -1,0 +1,25 @@
+!Es importante aclarar que este codigo va conectado junto a una base de datos, aún así se puede utilizar para una vista previa del funcionamiento del mismo.¡
+El codigo esta dividido por el formato MVC (Modelo-Vista-Controlador), lo cual al correrlo vamos a ver como nos abre un Menú dandonos pie a las diferentes vistas.
+
+# Sistema de Gestión de Estacionamiento
+Este proyecto es un sistema de gestión de estacionamiento desarrollado en Java. Permite administrar el ingreso y salida de vehículos, llevar registro de ocupación y calcular tarifas.
+
+##  Características principales
+- Registro de ingreso y salida de vehículos
+- Control de espacio disponible
+- Cálculo de tiempo de estadía y costo
+- Interfaz básica en consola
+- Código modular y organizado
+
+## Tecnologías utilizadas
+- Java (consola)
+- Programación orientada a objetos
+
+## Cómo ejecutar
+1. Abre el proyecto en tu IDE de preferencia (por ejemplo, IntelliJ IDEA o NetBeans).
+2. Asegúrate de tener instalado Java 8 o superior.
+3. Ejecuta la clase `Main` para iniciar el programa.
+4. Empieza a navegar por las diferentes pantallas.
+
+
+
